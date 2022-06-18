@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import gdown
-import streamlit as st
-from streamlit_option_menu import option_menu
 
 @st.experimental_memo
 ################################################################################
